@@ -1,0 +1,46 @@
+body {
+    background-color: #da87f3;
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+
+h2{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.container{
+    text-align: center;
+}
+
+#decrementar{
+    background-color: rgb(173, 6, 173);
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 15px;
+}
+
+
+#incrementar{
+    background-color: rgb(173, 6, 173);
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 15px;
+}
+
+
+#resetear{
+    background-color: rgb(216, 92, 20);
+    color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 15px;
+}
